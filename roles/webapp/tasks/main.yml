@@ -3,7 +3,7 @@
 
 - name: Ensure stub web content is deployed
   copy:
-    content: "{{ msg }} (version {{ vers }})\n"
+    content: "{{ webapp_message }} (version {{ webapp_version }})\n"
     dest: "{{ webapp_content_root_dir }}/index.html"
 
 - name: Find deployed webapp files

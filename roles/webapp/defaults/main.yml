@@ -5,6 +5,6 @@
 # from /var/www/html
 webapp_content_root_dir: /var/www/html
 
-msg: "This is {{ inventory_hostname }}."
-vers: v1.0
+webapp_message: "This is {{ inventory_hostname }}."
+webapp_version: v1.0
 

@@ -1,8 +1,0 @@
-[lb_servers]
-servera.lab.example.com
-
-[mylocal_servers]
-serverb.lab.example.com
-serverc.lab.example.com
-
-

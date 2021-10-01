@@ -1,5 +1,5 @@
 - name: Ensure Apache is deployed
-  hosts: mylocal_servers
+  hosts: web_servers
   force_handlers: True
 
   roles:
