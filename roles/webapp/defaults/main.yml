@@ -1,0 +1,10 @@
+
+# The directory where the web application
+# content is installed.  By default,
+# apache/httpd serves content
+# from /var/www/html
+webapp_content_root_dir: /var/www/html
+
+msg: "This is {{ inventory_hostname }}."
+vers: v1.0
+
