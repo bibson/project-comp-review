@@ -6,5 +6,6 @@ web_servers:
   hosts:
     serverb.lab.example.com:
     serverc.lab.example.com:
+    serverd.lab.example.com:
 
 
